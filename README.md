@@ -1,5 +1,7 @@
 <br clear="both">
 
+<img src="https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428" style="width: 50%; height: auto;">
+
 ![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![UkB3](https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7)
 
 <h1 align="center">Привет. Меня зовут Владимир!</h1>
