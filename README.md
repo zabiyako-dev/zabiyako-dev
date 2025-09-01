@@ -4,13 +4,11 @@
 
 <div style="display: flex; align-items: center;">
   <!-- Текст слева -->
-  <div style="flex: 1; font-weight: bold; font-size: 24px; text-transform: uppercase;">
-    <div>ПРИВЕТ!</div>
-    <div>МЕНЯ</div>
-    <div>ЗОВУТ</div>
-    <div>ВЛАДИМИР!</div>
-  <!-- Картинка справа -->
-<h3 align="Rite">
+  <div style="font-size: 36px; font-weight: bold; text-transform: uppercase; flex: 1;">
+    ПРИВЕТ! МЕНЯ ЗОВУТ ВЛАДИМИР!
+  </div>
+  <!-- Картинка по центру -->
+  <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df" alt="9WsD" style="max-width: 200px; height: auto;">
   </div>
 </div>
