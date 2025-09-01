@@ -2,7 +2,7 @@
 
 ![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![UkB3](https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: right;">
   <div style="flex: 1;">
     <h1>Привет! Меня зовут Владимир!</h1>
   </div>
