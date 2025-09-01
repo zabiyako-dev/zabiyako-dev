@@ -1,12 +1,11 @@
 <br clear="both">
 
-![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![75lF](https://github.com/user-attachments/assets/40185567-3d70-48db-99ae-c142590ab60a)
-###
+![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![UkB3](https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7) 
 
 <h1 align="center">Привет! Меня зовут Владимир!</h1>
 
 
-<div align="center">![9WsD](https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df)
+<div align="center"> ![9WsD](https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df)
 
 
 ###
@@ -110,6 +109,6 @@ const TeaDemon = {
 
 ###
 
-![UkB3](https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7) ![75lF](https://github.com/user-attachments/assets/40185567-3d70-48db-99ae-c142590ab60a)
+![75lF](https://github.com/user-attachments/assets/40185567-3d70-48db-99ae-c142590ab60a)
 
 
