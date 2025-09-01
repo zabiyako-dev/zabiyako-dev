@@ -2,7 +2,7 @@
 
 <div align="center">
   <iframe src="https://gifer.com/embed/UkB3" width=480 height=319.680 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="319.680" width="480" src="https://gifer.com/embed/UkB3""  />
 </div>
 
 ###
