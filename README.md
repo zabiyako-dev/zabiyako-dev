@@ -90,6 +90,8 @@ const TeaDemon = {
         backEnd: ["microservices", "monolithic", "serverless"],
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
+    design: {
+        digital: ["Figma", "DaVinci Resolve" , Adobe Photoshop],
     },
     currentFocus: "I'll be a better person!"
 };
