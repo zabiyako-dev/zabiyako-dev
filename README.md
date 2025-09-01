@@ -5,13 +5,8 @@
 <div style="display: flex; align-items: center;">
   <!-- Текст слева -->
   <div style="font-size: 120px; font-weight: bold; text-transform: uppercase; flex: 1;">
-    ПРИВЕТ! МЕНЯ ЗОВУТ ВЛАДИМИР!
+    ПРИВЕТ! МЕНЯ ЗОВУТ ВЛАДИМИР! </h1>
   </div>
-  <!-- Картинка по центру -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df" alt="9WsD" style="max-width: 200px; height: auto;">
-  </div>
-</div>
 
 ###
 
