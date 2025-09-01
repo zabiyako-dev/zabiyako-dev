@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=zabiyako-dev&theme=blueberry&border_radius=3&locale=ru&short_numbers=true&mode=weekly&card_width=460&card_height=190)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=zabiyako-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
