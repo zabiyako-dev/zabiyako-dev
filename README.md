@@ -1,10 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  
-![UkB3 (1)] (https://github.com/user-attachments/assets/de8dd42c-eafc-49d3-812b-5af4300046a1)
+  <img height="300" width="600" src="https://github.com/user-attachments/assets/7e6b639f-3bff-4e51-843d-e6b4d9f2f1c3.gif"  />
+</div>![UkB3]
 
-</div>
 
 ###
 
