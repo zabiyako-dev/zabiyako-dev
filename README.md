@@ -6,14 +6,11 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Владимир!</h1>
+<h1 align="center">Привет! Меня зовут Владимир!</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tea_demon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
   <a href="https://t.me/tea_demon_tv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -33,23 +30,6 @@
 
 <p align="left">Junior Backend-разработчик. По образованию инжинер-программист. Специализируюсь на алгоритмах и работе с нейросетями. Прохожу курсы Яндекс Практикума и Stepik, постоянно читаю статьи и книжки, общаюсь с более опытными коллегами.  <br><br>- 🔭 Завершил множество курсов по Bekend-разработке на Stepik.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!</p>
 </div>
-
-###
-
-<h3 align="left">📕 Мои статьи</h3>
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ###
 
