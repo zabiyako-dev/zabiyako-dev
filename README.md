@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center;">
   <!-- Текст слева -->
-  <div style="font-size: 36px; font-weight: bold; text-transform: uppercase; flex: 1;">
+  <div style="font-size: 120px; font-weight: bold; text-transform: uppercase; flex: 1;">
     ПРИВЕТ! МЕНЯ ЗОВУТ ВЛАДИМИР!
   </div>
   <!-- Картинка по центру -->
