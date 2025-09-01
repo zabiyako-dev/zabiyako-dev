@@ -1,6 +1,9 @@
 <br clear="both">
 
-<div style="padding-top:66.600%;position:relative;"><iframe src="https://gifer.com/embed/UkB3" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<div align="center">
+  <iframe src="https://gifer.com/embed/UkB3" width=480 height=319.680 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 ###
 
