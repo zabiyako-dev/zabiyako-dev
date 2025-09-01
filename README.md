@@ -1,11 +1,13 @@
 <br clear="both">
 
-![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![9WsD](https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df)
-
-
+![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![75lF](https://github.com/user-attachments/assets/40185567-3d70-48db-99ae-c142590ab60a)
 ###
 
 <h1 align="center">Привет! Меня зовут Владимир!</h1>
+
+
+<div align="center">![9WsD](https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df)
+
 
 ###
 
