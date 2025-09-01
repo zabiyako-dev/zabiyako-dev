@@ -5,7 +5,6 @@
 <h1 align="center">Привет! Меня зовут Владимир!</h1>
 
 
-<div align="center" 
 ![9WsD](https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df)
 
 
