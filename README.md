@@ -97,7 +97,7 @@ const TeaDemon = {
 
 ### 
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<div align="center">🔥   Моя статистика :</h3>
 
 ###
 
