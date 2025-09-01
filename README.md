@@ -48,8 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
@@ -62,10 +60,10 @@
 ###
 
 ```javascript
-const anmol = {
+const TeaDemon = {
     pronouns: "He" | "Him",
     code: ["Python", "С#", "Javascript", "TypeScript", "Dart"],
-    askMeAbout: ["backend", "frontend", "web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    askMeAbout: ["backend", "frontend", "web dev", "app dev", "UI/UX", "algorithms"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -74,12 +72,12 @@ const anmol = {
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            python: ["PuCharm", "Flask"],
         },
         mobileApp: {
             crossPlatform: ["Flutter"],
         },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: {
             aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
         },
