@@ -9,9 +9,8 @@
     <div>МЕНЯ</div>
     <div>ЗОВУТ</div>
     <div>ВЛАДИМИР!</div>
-  </div>
   <!-- Картинка справа -->
-  <div>
+<h3 align="Rite">
     <img src="https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df" alt="9WsD" style="max-width: 200px; height: auto;">
   </div>
 </div>
