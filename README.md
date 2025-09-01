@@ -2,10 +2,7 @@
 
 ![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![UkB3](https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7)
 
-<div style="display: flex; align-items: center;">
-  <!-- Текст слева -->
-  <div style="font-size: 120px; font-weight: bold; text-transform: uppercase; flex: 1;">
-    ПРИВЕТ! МЕНЯ ЗОВУТ ВЛАДИМИР! </h1>
+<h1 align="center">Привет. Меня зовут Владимир!</h1>
   </div>
 
 ###
