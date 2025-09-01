@@ -3,7 +3,6 @@
 <div style="display: flex; gap: 0;">
 <div align="center">
 <img src="https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7" style="width: 120%; height: auto;">
-<img src="https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428" style="width: 120%; height: auto;">
 
 </div>
 </div>
@@ -30,6 +29,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zabiyako-dev.zabiyako-dev&"  />
 </div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428" style="width: 120%; height: auto;">
 
 ###
 
