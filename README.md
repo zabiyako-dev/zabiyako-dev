@@ -2,11 +2,11 @@
 
 <div style="display: flex; gap: 0;">
   <img src="https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428" style="width: 70%; height: auto;">
-  <img src="https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7" style="width: 80%; height: auto;">
-  <img src="https://github.com/user-attachments/assets/e73fa8c9-0e0e-4f00-88fb-4405f96c696e" style="width: 80%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7" style="width: 75%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/e73fa8c9-0e0e-4f00-88fb-4405f96c696e" style="width: 75%; height: auto;">
 </div>
 
-<h1 align="center">Привет. Меня зовут Владимир!</h1>![9WsD](https://github.com/user-attachments/assets/e73fa8c9-0e0e-4f00-88fb-4405f96c696e)
+<h1 align="center">Привет. Меня зовут Владимир!</h1>
 
   </div>
 
