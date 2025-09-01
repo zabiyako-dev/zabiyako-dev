@@ -2,10 +2,15 @@
 
 ![6vIk](https://github.com/user-attachments/assets/ba428407-7f22-49ef-aac4-aa88bac0f428) ![UkB3](https://github.com/user-attachments/assets/752c049b-e171-4572-9b08-611ff01ac0a7)
 
-<div style="display: flex; align-items: right;">
-  <div style="flex: 1;">
-    <h1>Привет! Меня зовут Владимир!</h1>
+<div style="display: flex; align-items: center;">
+  <!-- Текст слева -->
+  <div style="flex: 1; font-weight: bold; font-size: 24px; text-transform: uppercase;">
+    <div>ПРИВЕТ!</div>
+    <div>МЕНЯ</div>
+    <div>ЗОВУТ</div>
+    <div>ВЛАДИМИР!</div>
   </div>
+  <!-- Картинка справа -->
   <div>
     <img src="https://github.com/user-attachments/assets/a86406a0-af4b-4257-8b2b-b6d2065d51df" alt="9WsD" style="max-width: 200px; height: auto;">
   </div>
