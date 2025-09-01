@@ -1,8 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <iframe src="https://gifer.com/embed/UkB3" width=480 height=319.680 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
-  <img height="319.680" width="480" src="https://gifer.com/embed/UkB3""  />
+  <img height="319.680" width="480" src="<img "https://i.gifer.com/UkB3.gif"  />
 </div>
 
 ###
