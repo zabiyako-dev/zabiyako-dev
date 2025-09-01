@@ -46,6 +46,8 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -62,8 +64,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
@@ -73,7 +73,9 @@
 
 ###
 
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=zabiyako-dev&theme=blueberry&border_radius=3&locale=ru&short_numbers=true&mode=weekly&card_width=460&card_height=190)](https://git.io/streak-stats)
+</div>
 
 ###
 
