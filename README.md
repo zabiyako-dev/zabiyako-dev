@@ -120,6 +120,8 @@ const TeaDemon = {
 
 ###
 
-![75lF](https://github.com/user-attachments/assets/40185567-3d70-48db-99ae-c142590ab60a)
+<div align="center">
 
+![75lF](https://github.com/user-attachments/assets/40185567-3d70-48db-99ae-c142590ab60a)
+</div>
 ###
