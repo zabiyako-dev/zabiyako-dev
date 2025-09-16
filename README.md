@@ -98,7 +98,7 @@ const TeaDemon = {
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
-            python: ["PuCharm", "Flask"],
+            python: ["PuCharm", "FastAPI"],
         },
         mobileApp: {
             crossPlatform: ["Flutter"],
