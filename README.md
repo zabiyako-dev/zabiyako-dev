@@ -88,7 +88,7 @@
 ```javascript
 const TeaDemon = {
     pronouns: "He" | "Him",
-    code: ["Python", "С#", "C", "C++", "Javascript", "TypeScript", "Dart"],
+    code: ["Python", "С#", "C", "C++", "JavaScript", "TypeScript", "Dart"],
     askMeAbout: ["backend", "frontend", "web dev", "app dev", "UI/UX", "algorithms"],
     technologies: {
         frontEnd: {
